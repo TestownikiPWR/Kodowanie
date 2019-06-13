@@ -1,4 +1,4 @@
-X00010
+X00001
 Dany jest kod liniowy o parametrach (n, k), to syndrom bêdzie mia³ d³ugoœæ:
 n+k
 k
