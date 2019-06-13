@@ -1,6 +1,6 @@
-X0010
-W wyniku dzia³ania algorytmu Viterbiego
-Uzyskujemy informacjê o iloœci nadanych jedynek
-Uzyskujemy bloki s³ów kodowych na wyjœciu modulatora
+X0001
+W wyniku dziaÅ‚ania algorytmu Viterbiego
+Uzyskujemy informacjÄ™ o iloÅ›ci nadanych jedynek
+Uzyskujemy bloki sÅ‚Ã³w kodowych na wyjÅ›ciu modulatora
 Uzyskujemy estymator informacji nadanej
-Jesteœmy w stanie narysowaæ kratê przejœcia modulatora
+JesteÅ›my w stanie narysowaÄ‡ kratÄ™ przejÅ›cia modulatora

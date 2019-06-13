@@ -1,4 +1,4 @@
-X0010
+X0001
 Je¿eli stopieñ wielomianu generuj¹cego wynosi 3, to syndrom sk³ada siê z:
 1 bita
 2 bitów
