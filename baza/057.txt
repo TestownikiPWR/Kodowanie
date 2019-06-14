@@ -1,6 +1,6 @@
-X0010
+X0011
 Synonimem kodowania protekcyjnego jest:
-zabezpieczenie przed niepowo≥anym dostÍpem  
-kodowanie ürÛd≥owe 
+zabezpieczenie przed niepowo≈Çanym dostƒôpem  
+kodowanie ≈∫r√≥d≈Çowe 
 kodowanie nadmiarowe  
-kodowanie kana≥owe
+kodowanie kana≈Çowe
