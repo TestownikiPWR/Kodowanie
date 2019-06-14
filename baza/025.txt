@@ -1,5 +1,5 @@
-X0110
-Mamy cia³o rozszerzone CG(4). Które z podanych zbiorów nie mog¹ stanowiæ zbioru jego elementów.
+X0101
+Mamy ciaÂ³o rozszerzone CG(4). KtÃ³re z podanych zbiorÃ³w nie mogÂ¹ stanowiÃ¦ zbioru jego elementÃ³w.
 0, 1, x, x+1
 0, 1, a, a^2
 0, 1, 2, 3
