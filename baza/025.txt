@@ -1,4 +1,4 @@
-X0111
+X0110
 Mamy cia³o rozszerzone CG(4). Które z podanych zbiorów nie mog¹ stanowiæ zbioru jego elementów.
 0, 1, x, x+1
 0, 1, a, a^2
