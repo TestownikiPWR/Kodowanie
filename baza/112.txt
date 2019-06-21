@@ -1,0 +1,6 @@
+X0010
+Ile wynosi wartość funkcji Eulera z liczby 5:
+1
+2
+4
+6

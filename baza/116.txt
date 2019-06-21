@@ -1,0 +1,6 @@
+X1000
+Ile wynosi wynik mnożenia 13*7 w funkcji Eulera
+72
+45
+28
+91

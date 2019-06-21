@@ -1,0 +1,6 @@
+X0001
+Ile wynosi wartość funkcji Eulera z liczby 7:
+1
+2
+4
+6

@@ -1,0 +1,6 @@
+X0100
+Ile wynosi wartość funkcji Eulera z liczby 6:
+1
+2
+4
+6
