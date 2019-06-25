@@ -1,5 +1,5 @@
 X0010
-Ile wynosi wartość funkcji Eulera z liczby 5:
+Oblicz wartość funkcji Eulera dla liczby 5:
 1
 2
 4

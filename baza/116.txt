@@ -1,5 +1,5 @@
 X1000
-Ile wynosi wynik mnożenia 13*7 w funkcji Eulera
+Oblicz wartość funkcji Eulera dla liczby(13•7)
 72
 45
 28

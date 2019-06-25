@@ -1,5 +1,5 @@
 X0100
-Ile wynosi wartość funkcji Eulera z liczby 6:
+Oblicz wartość funkcji Eulera dla liczby 6:
 1
 2
 4

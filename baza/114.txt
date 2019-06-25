@@ -1,5 +1,5 @@
 X0001
-Ile wynosi wartość funkcji Eulera z liczby 7:
+Oblicz wartość funkcji Eulera dla liczby 7:
 1
 2
 4

@@ -1,5 +1,5 @@
 X1000
-Ile wynosi wartość funkcji Eulera z liczby 2:
+Oblicz wartość funkcji Eulera dla liczby 2:
 1
 2
 4

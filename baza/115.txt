@@ -1,5 +1,5 @@
 X1000
-Ile wynosi wynik mnożenia 5*7 w funkcji Eulera
+Oblicz wartość funkcji Eulera dla liczby(12•11)
 24
 25
 35
