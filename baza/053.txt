@@ -1,6 +1,6 @@
-X1000
-Skrócenie kodu powoduje? (ogólnie to sprawnoœæ siê zwiêkszy, ale dmin nie bêdzie mniejsze, tak¿e luŸno traktujcie tê odp)
-zwiêkszenie sprawnosci i zmniejszenie odleg³osci minimalnej 
-zmniejszenie sprawnoœci
+X0100
+SkrÃ³cenie kodu powoduje? (ogÃ³lnie to sprawnoÅ›Ä‡ siÄ™ zwiÄ™kszy, ale dmin nie bÄ™dzie mniejsze, takÅ¼e luÅºno traktujcie tÄ™ odp)
+zwiÄ™kszenie sprawnosci i zmniejszenie odlegÅ‚osci minimalnej 
+zmniejszenie sprawnoÅ›ci
 nic nie powoduje
-powoduje coœ 
+powoduje coÅ› 
