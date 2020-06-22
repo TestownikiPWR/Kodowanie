@@ -1,6 +1,6 @@
-X1000
-Kod rÛwnoleg≥y jest:
+X1001
+Kod r√≥wnoleg≈Çy jest:
 kodem liniowym blokowym
 kodem cyklicznym
 kodem splotowym
-szczegÛlnym przypadkiem kodu Mac Donalda
+szczeg√≥lnym przypadkiem kodu Mac Donalda
