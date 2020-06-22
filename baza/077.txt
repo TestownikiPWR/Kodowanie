@@ -1,0 +1,6 @@
+X0001
+Ile wynosi szybkoœæ transmisji sygna³u binarnego, je¿eli czas trwania najkrótszego jego elementu jest równy 10ps
+100kb/s
+10 Mb/s
+10Gb/s
+100Gb/s
