@@ -1,6 +1,6 @@
-X0100
-Czy wektory bazowe rozpinaj¹ce przestrzeñ liniow¹ musz¹ byæ ortogonalne?
-nie, ale pod warunkiem, ¿e jest ich wiêcej ni¿ dwa
-tak, a ponadto musz¹ byæ liniowo niezale¿ne
+X0001
+Czy wektory bazowe rozpinajÅ¡ce przestrzeÅ„ liniowÅ¡ muszÅ¡ byÄ‡ ortogonalne?
+nie, ale pod warunkiem, Å¼e jest ich wiÄ™cej niÅ¼ dwa
+tak, a ponadto muszÅ¡ byÄ‡ liniowo niezaleÅ¼ne
 ctak
-nie, ale musz¹ byæ liniowo niezale¿ne
+nie, ale muszÅ¡ byÄ‡ liniowo niezaleÅ¼ne
