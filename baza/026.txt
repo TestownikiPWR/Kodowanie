@@ -1,6 +1,6 @@
-X0110
-Maj¹c do dyspozycji tylko i wy³¹cznie wielomian generuj¹cy kodu cyklicznego mo¿emy wyznaczyæ
-Macierz kontroln¹ kodu
-Okreœliæ d³ugoœæ syndromu
-Macierz generuj¹c¹ kodu
-Kratê stanów modulatora
+X0100
+MajÄ…c do dyspozycji tylko i wyÅ‚Ä…cznie wielomian generujÄ…cy kodu cyklicznego moÅ¼emy wyznaczyÄ‡
+Macierz kontrolnÄ… kodu
+OkreÅ›liÄ‡ dÅ‚ugoÅ›Ä‡ syndromu
+Macierz generujÄ…cÄ… kodu
+KratÄ™ stanÃ³w modulatora
