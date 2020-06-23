@@ -1,0 +1,6 @@
+X1000
+Za pomocą tablicy dekodującej nie można dekodować korekcyjnie:
+kodów splotowych
+kodów cyklicznych
+kodów liniowych blokowych
+kodów BCH
